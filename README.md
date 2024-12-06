@@ -1,2 +1,2 @@
-# end-to-end-data-analyst-project-Hospitality-Domain
+# end-to-end-data-analyst-project-Hospitality-Domain-Using-power-bi
 This project focuses on building an end-to-end hotel performance dashboard that tracks and analyzes critical metrics for improving occupancy, revenue, and operational efficiency in the hospitality industry. Using Power BI and Power Query, this dashboard provides hotel management with actionable insights to optimize room pricing, occupancy rates, and customer experience :)
